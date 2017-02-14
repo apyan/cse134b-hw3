@@ -34,3 +34,9 @@ td {
   border-bottom: 1px solid #ddd;
   font-size: 1.0em;
 }
+
+.amiiboImg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
